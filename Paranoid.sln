@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{f2a71f9b-5d33-465a-a702-920d77279786}") = "Paranoid", "Paranoid\Paranoid.fsproj", "{F1862208-39C3-494E-A848-969CB7A2DC6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1862208-39C3-494E-A848-969CB7A2DC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1862208-39C3-494E-A848-969CB7A2DC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1862208-39C3-494E-A848-969CB7A2DC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1862208-39C3-494E-A848-969CB7A2DC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
